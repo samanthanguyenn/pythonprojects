@@ -1,0 +1,53 @@
+self.place.remove_insect(self)
+if self.place.ant is None
+
+        # place = self.place
+        # damage = self.damage
+        # flying_bees = place.bees[:]
+        # for bee in flying_bees:
+        #     bee.reduce_armor(damage)
+
+    #     if insect.is_ant:
+    #         # Phase 4: Special Handling for BodyguardAnt and QueenAnt
+    #         if self.ant is insect:
+    #             if hasattr(self.ant, 'container') and self.ant.container:
+    #                 self.ant = self.ant.ant
+    #             else:
+    #                 self.ant = None
+    #         else:
+    #             if hasattr(self.ant, 'container') and self.ant.container and self.ant.ant is insect:
+    #                 self.ant.ant = None
+    #             else:
+    #                 assert False, '{0} is not in {1}'.format(insect, self)
+    #     else:
+    #         self.bees.remove(insect)
+
+    #     insect.place = None
+
+    # def __str__(self):
+    #     return self.name
+
+
+        # other.popularity -= other.popularity //10
+        # self.votes += self.popularity//10
+        # other.votes -= other.popularity//10
+
+        # self.popularity += self.popularity //10
+        # other.popularity -= other.popularity //10
+        # else:
+        # self.votes += p1//10
+        # p2 += p2//10
+        # if p1 < 0:
+        #     p1 = 0
+        # if p2 < 0:
+        #     p2 =0
+
+                # p1 = self.popularity
+        # p2 = other.popularity
+        # if p1 and p2:
+        # if self.votes <10:
+        #     self.votes = 0
+
+                p1 = self.popularity
+        p2 = other.popularity
+        random_number = random()
